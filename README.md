@@ -29,7 +29,7 @@ de las provincias de Argentina, construido con modelo de datos relacional.
 Power BI Desktop · Power Query · Modelado relacional
 
 ## Archivos
- (Análisis%20geográfico%20Argentina.pbix) Archivo Power BI con el dashboard completo 
+ (analisis_geografico_argentina.pbix) Archivo Power BI con el dashboard completo 
 
 ## Autor
 Juan Burbano — Estudiante de Ingeniería de Sistemas | UNAD  
